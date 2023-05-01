@@ -1,12 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shadman-shahid
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - shadman-shahid/hamming_error

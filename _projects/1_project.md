@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: An Investigation into Dual-mode Lasing Response in planar multi-layer Plasmonic laser Systems
+short-title: Dual mode Tamm-plasmon lasers
+description: Final undergraduate thesis.  
+img: assets/img/thesis_1.jpg
 importance: 1
-category: work
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

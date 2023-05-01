@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Hamming error correcting code generator and receiver
+short-title: Hamming error correction in VLSI
+description: A simple error correcting scheme, based upon the least Hamming distance principle
+img: assets/img/hamming.jpg
 importance: 3
-category: work
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

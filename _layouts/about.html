@@ -13,7 +13,7 @@ layout: default
 
         <article>
           {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}" style="width: 30%;">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
@@ -29,14 +29,14 @@ layout: default
               alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
-            <div class="address">
+            <div class="desc">
               {{ page.profile.address }}
             </div>
             {%- endif %}
           </div>
           {%- endif %}
 
-          <div class="clearfix">
+          <div style="text-align: justify;" class="clearfix">
             {{ content }}
           </div>
 

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Solution of two dimensional Laplace equation
+short-title: FEM method- Laplace equation
+description: A simple MATLAB code to solve 2D Laplace equation with FEM method  
+img: assets/img/fem.png
+importance: 8
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

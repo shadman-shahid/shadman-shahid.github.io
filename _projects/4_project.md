@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Implementing Tetris Game using Verilog
+short-title: Tetris in Verilog
+description: Simplified version of the Tetris game implemented using an FPGA board.
+img: assets/img/tetris.jpg
+redirect: https://unsplash.com
+importance: 6
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

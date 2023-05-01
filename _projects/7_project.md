@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Implementation of 8x8 Booth Encoded Multiplier
-short-title:  8x8 Booth Encoded Multiplier
-description: ‘8 by 8 Booth encoded multiplier’ using the Cadence Virtuoso platform.
-img: assets/img/booth.jpg
-importance: 5
+title: DTMF Controlled Robot
+short-title: DTMF Controlled Robot
+description: Control a robot movement over long distance with a mobile phone network without internet system. 
+img: /assets/img/EEE310_dtmf.jpg
+importance: 9
 category: academic
 ---
 
