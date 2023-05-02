@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shadman-shahid.github.io/about/sitemap.xml
+Sitemap: https://shadman-shahid.github.io/sitemap.xml
