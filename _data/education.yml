@@ -1,0 +1,26 @@
+
+
+- title: "Bachelor of Science"
+  degree: "Electrical and Electronic Engineering"
+  major: "Electronics"
+  dept_link: "https://eee.buet.ac.bd/"
+  key: "bsc2021"
+  university: "Bangladesh University of Engineering and Technology"
+  uni_link: "https://buet.ac.bd/"
+  duration: "March 2016 - Feb 2021"
+  year: 2021
+  cgpa: "3.86"
+  rank: "14 / 215 (Top 6%)"
+  location: "Dhaka, Bangladesh"
+  logo: "buet.png"
+
+- title: "Master of Science"
+  degree: "Electrical and Electronic Engineering"
+  major: "Electronics and Photonics" 
+  key: "msc2024"
+  university: "Bangladesh University of Engineering and Technology"
+  duration: "June 2021 - April 2024"
+  year: 2024
+  cgpa: "3.75"
+  location: "Dhaka, Bangladesh"
+  logo: "buet.png"
