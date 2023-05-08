@@ -25,7 +25,9 @@ social: true  # includes social icons at the bottom of the page
 
 *The site is currently still under construction. I am still creating the first draft. Sorry for the brokenness!*
 
-I am currently looking for graduate positions in labs focusing on **<span style="font-size: 16px;">nanophotonics, active plasmonics and non-linear optics</span>**. For my Master's thesis, I am working on enhancing non-linear optical phenomenon with active plasmonics.  
+I am currently interested in positions with academic involvement, preferably teaching positions at universities. I am good with any electrical engineering concepts in general, but have been focused in <span style="color:purple;">photonics and machine learning</span> for the past few years - thanks to my jobs!  
+
+<!-- I am currently looking for graduate positions in labs focusing on **<span style="font-size: 16px;">nanophotonics, active plasmonics and non-linear optics</span>**. For my Master's thesis, I am working on enhancing non-linear optical phenomenon with active plasmonics.   -->
 
 I am a graduate student (Masters) under  [Professor Dr. Anisuzzaman Talukder][Anis]. Currently, besides my full time appointment as a Machine Learning Engineer in  [ACI Limited][ACI], I am doing M.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in Electronics and photonics. My research interest includes _nanophotonics and plasmonics_, _photonic design optimization_ and _photonic inverse design_. However, a thanks to my current role as a machine learning engineer since July 2022, I also have workable expertise in _Machine learning/Deep learning techniques and tools_. This interest has driven me to explore the field of ML/DL assisted electromagnetic simulation and modelling.  
 <!-- My greater goal is to work with enabled photonic computation and photonic devices. To be at the forefront of photonic integrated circuits research, building machine learning optimized devices. -->

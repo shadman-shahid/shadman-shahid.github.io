@@ -1,4 +1,15 @@
 
+- title: "Master of Science"
+  degree: "Electrical and Electronic Engineering"
+  major: "Electronics and Photonics" 
+  key: "msc2024"
+  university: "Bangladesh University of Engineering and Technology"
+  duration: "June 2021 - April 2024"
+  year: 2024
+  cgpa: "3.75"
+  location: "Dhaka, Bangladesh"
+  logo: "buet.png"
+
 
 - title: "Bachelor of Science"
   degree: "Electrical and Electronic Engineering"
@@ -14,13 +25,4 @@
   location: "Dhaka, Bangladesh"
   logo: "buet.png"
 
-- title: "Master of Science"
-  degree: "Electrical and Electronic Engineering"
-  major: "Electronics and Photonics" 
-  key: "msc2024"
-  university: "Bangladesh University of Engineering and Technology"
-  duration: "June 2021 - April 2024"
-  year: 2024
-  cgpa: "3.75"
-  location: "Dhaka, Bangladesh"
-  logo: "buet.png"
+
