@@ -3,7 +3,7 @@ layout: page
 title: Personalized-Promo Dashboard
 short-title: Personalized-Promo Dashboard
 description: Dashboard for auto promo generation based on next-month purchase and lapse prediction from retail data.
-img: assets/img/project/pers_promo.png
+img: assets/img/project/pers_promo_n.jpg
 importance: 2
 category: work
 ---

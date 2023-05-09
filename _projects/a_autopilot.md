@@ -1,14 +1,14 @@
 ---
 layout: page
-title: DTMF Controlled Robot
-short-title: DTMF Controlled Robot
-description: Control a robot movement over long distance with a mobile phone network without internet system. 
-img: /assets/img/EEE310_dtmf.jpg
-importance: 9
+title: Aircraft Autopilot System Prototype
+short-title: Aircraft Autopilot System Prototype
+description: Control and balance a toy aircraft’s movement with arduino controller. 
+img: assets/img/project/airplane.jpg
+importance: 7
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

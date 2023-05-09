@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Implementation of 8x8 Booth Encoded Multiplier
-short-title:  8x8 Booth Encoded Multiplier
-description: ‘8 by 8 Booth encoded multiplier’ using the Cadence Virtuoso platform.
-img: assets/img/booth.jpg
-importance: 5
+title: DTMF Controlled Robot
+short-title: DTMF Controlled Robot
+description: Control a robot movement over long distance with a mobile phone network without internet system. 
+img: /assets/img/project/dtmf_n.jpg
+importance: 9
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

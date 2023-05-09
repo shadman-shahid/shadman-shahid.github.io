@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Solution of two dimensional Laplace equation
-short-title: FEM method- Laplace equation
-description: A simple MATLAB code to solve 2D Laplace equation with FEM method  
-img: assets/img/fem.png
-importance: 8
+title: Self Consistent Schrödinger-Poisson Solver in MATLAB
+short-title: Schrödinger-Poisson Solver
+description: A simple MATLAB code of a self-consistent Schrödinger-Poisson Solver
+img: 
+importance: 10
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

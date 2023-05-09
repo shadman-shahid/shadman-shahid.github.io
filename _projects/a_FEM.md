@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Implementing Tetris Game using Verilog
-short-title: Tetris in Verilog
-description: Simplified version of the Tetris game implemented using an FPGA board.
-img: assets/img/tetris.jpg
-redirect: https://unsplash.com
-importance: 6
+title: Solution of two dimensional Laplace equation
+short-title: FEM method- Laplace equation
+description: A simple MATLAB code to solve 2D Laplace equation with FEM method  
+img: assets/img/project/fem_n.jpg
+importance: 8
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -79,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

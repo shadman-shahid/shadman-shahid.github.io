@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Self Consistent Schrödinger-Poisson Solver in MATLAB
-short-title: Schrödinger-Poisson Solver
-description: A simple MATLAB code of a self-consistent Schrödinger-Poisson Solver
-img: 
-importance: 10
+title: Hamming error correcting code generator and receiver
+short-title: Hamming error correction in VLSI
+description: A simple error correcting scheme, based upon the least Hamming distance principle
+img: assets/img/project/hamming.jpg
+importance: 3
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

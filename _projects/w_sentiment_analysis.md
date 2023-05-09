@@ -3,7 +3,7 @@ layout: page
 title: Sentiment Analysis Dashboard
 short-title: Sentiment Analysis Dashboard
 description: A dashboard that analyzes the sentiment of text data scraped from popular Bangla dailies. 
-img: assets/img/review.jpg
+img: 
 importance: 2
 category: work
 ---

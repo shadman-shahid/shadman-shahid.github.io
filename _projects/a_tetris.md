@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Aircraft Autopilot System Prototype
-short-title: Aircraft Autopilot System Prototype
-description: Control and balance a toy aircraft’s movement with arduino controller. 
-img: assets/img/airplane.jpg
-importance: 7
+title: Implementing Tetris Game using Verilog
+short-title: Tetris in Verilog
+description: Simplified version of the Tetris game implemented using an FPGA board.
+img: assets/img/project/tetris_d.jpg
+# redirect: https://unsplash.com
+importance: 6
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +79,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

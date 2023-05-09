@@ -3,7 +3,7 @@ layout: page
 title: Retail product embedding generation for product recommendation
 short-title: Product embedding generation
 description: Developed an embedding model for a more natural product recommendation and filtering. 
-img: assets/img/review.jpg
+img: 
 importance: 2
 category: work
 ---

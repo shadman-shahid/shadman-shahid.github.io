@@ -1,14 +1,14 @@
 ---
 layout: page
-title: An Investigation into Dual-mode Lasing Response in planar multi-layer Plasmonic laser Systems
-short-title: Dual mode Tamm-plasmon lasers
-description: Final undergraduate thesis.  
-img: assets/img/thesis_1.jpg
-importance: 1
+title: Implementation of 8x8 Booth Encoded Multiplier
+short-title:  8x8 Booth Encoded Multiplier
+description: ‘8 by 8 Booth encoded multiplier’ using the Cadence Virtuoso platform.
+img: assets/img/project/booth.jpg
+importance: 5
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

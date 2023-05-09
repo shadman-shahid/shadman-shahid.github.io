@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Review on the physics and application of sub-wavelength holes on metal films
-short-title: Review on sub-wavelength holes on metal films
-description: A review article on sub-wavelength holes, and their physics and applications.  
-img: assets/img/review.jpg
-importance: 2
+title: An Investigation into Dual-mode Lasing Response in planar multi-layer Plasmonic laser Systems
+short-title: Dual mode Tamm-plasmon lasers
+description: Final undergraduate thesis.  
+img: assets/img/project/thesis_n.jpg
+importance: 1
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
