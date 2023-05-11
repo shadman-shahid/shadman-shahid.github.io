@@ -12,5 +12,8 @@ children:
     - title: Test Scores
       permalink: /test-scores/
     - title: divider
+    - title: "."
+      permalink: /blog/
+
 
 ---

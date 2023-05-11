@@ -20,8 +20,8 @@ pagination:
 
   {% if blog_name_size > 0 or blog_description_size > 0 %}
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h4><span style="color:purple;">{{ site.blog_name }}</span></h4>
+    <div style="text-align: justify;"><h6>{{ site.blog_description }}</h6></div>
   </div>
   {% endif %}
 

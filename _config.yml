@@ -120,10 +120,11 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: ssssss # blog_name will be displayed in your blog page
+blog_name: Things I do when I get some peace and quiet # blog_name will be displayed in your blog page
 blog_nav_title: false # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: I am writing this description as I am setting up this (for the lack of a better term) blog post. In an age of ultra-curated content this is a place where I come to violate all arbitrary standards of perfection. The thing is, I don't expect people to read any of the stuff that goes on here. But, if they somehow still manage to find this place out, cheers to them. If they manage to derive some benefit out of these, well double cheers to them. You know what, I'll make this place a secluded corner of the internet, so that it's difficult to find. "Why though?" - you may ask. Cause I believe these are precious.
 permalink: /blog/:year/:title/
+display_tags: #['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # Pagination
 pagination:
@@ -263,7 +264,6 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
