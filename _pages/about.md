@@ -23,19 +23,19 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-*The site is currently still under construction. I am still creating the first draft. Sorry for the brokenness!*
-
-I am currently interested in positions with academic involvement, preferably teaching positions at universities. I am good with any electrical engineering concepts in general, but have been focused in <span style="color:purple;">photonics and machine learning</span> for the past few years - thanks to my jobs!  
+I am currently serving as a Lecturer at BRAC University, Dhaka in the Department of Computer Science and Engineering. I teach **CSE251: Electronic Devices and Circuits**, **CSE250: Circuits and Electronics** and **CSE350: Digital Electronics and Pulse Techniques**. However, my research focus lies in <span style="color:purple;">nanophotonics and machine learning</span>.  
 
 <!-- I am currently looking for graduate positions in labs focusing on **<span style="font-size: 16px;">nanophotonics, active plasmonics and non-linear optics</span>**. For my Master's thesis, I am working on enhancing non-linear optical phenomenon with active plasmonics.   -->
 
-I am a graduate student (Masters) under  [Professor Dr. Anisuzzaman Talukder][Anis]. Currently, besides my full time appointment as a Machine Learning Engineer in  [ACI Limited][ACI], I am doing M.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in Electronics and photonics. My research interest includes _nanophotonics and plasmonics_, _photonic design optimization_ and _photonic inverse design_. However, a thanks to my current role as a machine learning engineer since July 2022, I also have workable expertise in _Machine learning/Deep learning techniques and tools_. This interest has driven me to explore the field of ML/DL assisted electromagnetic simulation and modelling.  
+I am a graduate student (Masters) under  [Professor Dr. Anisuzzaman Talukder][Anis]. Currently, besides my full time appointment as a Machine Learning Engineer in  [ACI Limited][ACI], I am doing M.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in Electronics and photonics. My research interest includes _nanophotonics and plasmonics_, _photonic design optimization_ and _photonic inverse design_. However, a thanks to my current role as a machine learning engineer since July 2022, I also have workable expertise in _Machine learning/Deep learning techniques and tools_, especially in the context of serving a multi-faceted business institution. 
+
+<!-- This interest has driven me to explore the field of ML/DL assisted electromagnetic simulation and modelling.   -->
 <!-- My greater goal is to work with enabled photonic computation and photonic devices. To be at the forefront of photonic integrated circuits research, building machine learning optimized devices. -->
 
 I have previously worked with a special class of plasmonic lasers called **[Tamm-plasmon lasers][tamm-laser]**. My goal had been to devise a design for a tamm-plasmon laser, that could operate with two closely spaced modes. To that end, I, along with my the then research partner [Shahed-e-Zumrat][zumrat] devised two different approaches. The first approach utilized **[a lateral redesigning of a simple rectangular nanohole array to a more complex merged lattice array][merged-lattice]**. The second approach relied on the utilization of **[two distributed bragg reflectors, tuned to slightly different wavelengths][dual-dbr-laser]**
 
 
-Apart from the published works, I am also currently exploring the physics of tamm plasmon laser working with the merged lattice array. 
+Apart from the published works, I am also currently exploring ~~the physics of Tamm plasmon laser working with the merged lattice array~~, **leveraging non-linear effects in nanophotonic lasers.**. 
 
 ---
 [Anis]:http://anis.buet.ac.bd/index.html 
