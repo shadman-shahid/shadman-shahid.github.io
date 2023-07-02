@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am currently serving as a Lecturer at BRAC University, Dhaka in the Department of Computer Science and Engineering. I teach **CSE251: Electronic Devices and Circuits**, **CSE250: Circuits and Electronics** and **CSE350: Digital Electronics and Pulse Techniques**. However, my research focus lies in <span style="color:purple;">nanophotonics and machine learning</span>.  
+I am currently serving as a contractual Lecturer at BRAC University, Dhaka in the Department of Computer Science and Engineering. I teach **CSE251: Electronic Devices and Circuits**, **CSE250: Circuits and Electronics** and **CSE350: Digital Electronics and Pulse Techniques**. However, my research focus lies in <span style="color:purple;">nanophotonics and machine learning</span>.  
 
 <!-- I am currently looking for graduate positions in labs focusing on **<span style="font-size: 16px;">nanophotonics, active plasmonics and non-linear optics</span>**. For my Master's thesis, I am working on enhancing non-linear optical phenomenon with active plasmonics.   -->
 
