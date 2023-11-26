@@ -13,7 +13,7 @@
   contents:
     - title: M.Sc. in Electrical and Electronic Engineering
       institution: Bangladesh University of Engineering and Technology
-      year: 2023 (Tentative)
+      year: 2024 (Tentative)
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -34,9 +34,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Lecturer
+      institution: BRAC University, Dhaka, Bangladesh
+      year: 2023 - Present
+    
     - title: Machine Learning Engineer
       institution: ACI Limited, Dhaka, Bangladesh
-      year: 2022 - 
+      year: 2022 - 2023
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -91,9 +95,10 @@
       items: 
         - Photonic Integrated Circuit (PIC) compatible components and devices
         - Non-linear Optics
-    - title: Photonic Inverse design
-      items:
-        - Application of Machine Learning and Deep Learning for Photonic Inverse Design
+        - Quantum photonics
+    # - title: Photonic Inverse design
+    #   items:
+    #     - Application of Machine Learning and Deep Learning for Photonic Inverse Design
 
 - title: Other Interests
   type: list
