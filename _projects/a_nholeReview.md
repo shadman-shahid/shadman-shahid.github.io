@@ -18,8 +18,5 @@ Array of sub-wavelength holes etched on to a thin metal film is a class of plasm
 
 
 <div style="text-align: justify;">
-In this review, the physics and application of metal NHAs is presented. In presenting the physics of metal NHAs, the physics of single sub-wavelength holes and sub-wavelength hole arrays (NHAs) on metal films are described, by analysing their transmission and dispersion relation characteristics. Thereafter, some of the devices reported so far, whose operation are based on the optical characteristics of metal NHAs are presented. Application of mtak NHAs in the fields of biosensing, light emission - lasers, photo-voltaics, optical communication etc are presented and analysed. Finally, based on the current trend of research in this field, the future of metal NHAs is presented.
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In this review, the physics and application of metal NHAs is presented. In presenting the physics of metal NHAs, the physics of single sub-wavelength holes and sub-wavelength hole arrays (NHAs) on metal films are described, by analysing their transmission and dispersion relation characteristics. Thereafter, some of the devices reported so far, whose operation are based on the optical characteristics of metal NHAs are presented. Application of NHAs in the fields of biosensing, light emission - lasers, photo-voltaics, optical communication etc are presented and analysed. Finally, based on the current trend of research in this field, the future of metal NHAs is presented.
 </div>

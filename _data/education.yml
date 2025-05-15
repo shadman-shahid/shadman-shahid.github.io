@@ -1,10 +1,20 @@
+- title: "Doctor of Philosophy"
+  degree: "Electrical Engineering"
+  major: "Electrophysics" 
+  key: "phd2024"
+  university: "University of Southern California"
+  duration: "Jan 2025 - Ongoing"
+  year: 2025
+  cgpa: "-"
+  location: "Los Angeles, California, USA"
+  logo: "usc.png"
 
 - title: "Master of Science"
   degree: "Electrical and Electronic Engineering"
   major: "Electronics and Photonics" 
   key: "msc2024"
   university: "Bangladesh University of Engineering and Technology"
-  duration: "June 2021 - April 2024"
+  duration: "June 2021 - Jan 2025"
   year: 2024
   cgpa: "3.75"
   location: "Dhaka, Bangladesh"
