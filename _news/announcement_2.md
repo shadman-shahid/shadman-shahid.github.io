@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-My classes and research duties as an RA started from 10 January 2025.
+Excited to start my PhD journey at the [Povinelli Nanophotonics Laboratory!](https://nanophotonicslab.usc.edu/research/)
