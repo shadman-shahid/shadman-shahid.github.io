@@ -12,17 +12,20 @@ Error correcting codes are essential for an error-free data communication system
 better for a system, as the receiver system is prepared to handle errors. Moreover,
 FECs prevent the redundancy of transmitting erroneous data back to the transmitters
 end for correction. This was the inspiration to create a __simple error correcting scheme__ based upon the __least Hamming distance principle__
+{: style="text-align: justify;"}
 
 With this end in view, I had implemented a proof of concept system that can correct a single bit error per six transmitted
 bits. The parameters of the coding scheme are hard coded to keep the system simple and
 minimal enough to display the basic working principle. However those system parameters
 can be easily incorporated as system inputs. This project contains the following:
+{: style="text-align: justify;"}
 1. Behavioral description of the system in verilog
 2. RTL synthesis step
 3. Physical design step and validation 
 4. Design Rule Check and Layout Versus Schematic
 
 The entire system was implemented using **_Verilog_** by software packages of __Cadence Design Systems__.
+{: style="text-align: justify;"}
 
 <div style="text-align: center;">
     <img src='/assets/img/project/hamming_inside.png' alt="Hamming ECC" style="width: 80%;" />

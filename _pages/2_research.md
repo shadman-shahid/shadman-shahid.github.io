@@ -3,11 +3,11 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-years: [2022]
+years: [2026, 2025, 2024, 2022]
 nav: true
 nav_order: 2
 ---
-A list of my publications are provided here. Google scholar link is provided [here](https://scholar.google.com/citations?hl=en&user=Yhv2nC8AAAAJ). I will keep updating the list over time. These are only the articles that have been published in journals or conferences. Un-published works are listed under __"Projects"__.
+A list of my publications are provided here. Google scholar link is provided [here](https://scholar.google.com/citations?hl=en&user=Yhv2nC8AAAAJ). I will keep updating the list over time. These are only the articles that have been published in journals or conferences. Un-published works are listed under [__Projects__](/projects/).
 <!-- _pages/publications.md -->
 <div class="publications">
 

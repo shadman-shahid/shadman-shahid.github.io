@@ -10,6 +10,17 @@
   logo: "usc.png"
 
 - title: "Master of Science"
+  degree: "Electrical and Computer Engineering"
+  major: "Electrophysics" 
+  key: "msc2026"
+  university: "University of Southern California"
+  duration: "Jan 2025 - Aug 2026"
+  year: 2026
+  cgpa: "3.56"
+  location: "Los Angeles, California, USA"
+  logo: "usc.png"
+  
+- title: "Master of Science"
   degree: "Electrical and Electronic Engineering"
   major: "Electronics and Photonics" 
   key: "msc2024"

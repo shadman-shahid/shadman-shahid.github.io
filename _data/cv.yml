@@ -11,9 +11,15 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Electrical Engineering
+      institution: University of Southern California
+      year: Ongoing 
+    - title: M.Sc. in Electrical and Computer Engineering
+      institution: University of Southern California
+      year: 2026 
     - title: M.Sc. in Electrical and Electronic Engineering
       institution: Bangladesh University of Engineering and Technology
-      year: 2024 (Tentative)
+      year: 2025
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -34,9 +40,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant
+      institution: Povinelli Nanophotonics Laboratory, University of Southern California, Los Angeles, USA
+      year: 2025 - Present
     - title: Lecturer
       institution: BRAC University, Dhaka, Bangladesh
-      year: 2023 - Present
+      year: 2023 - 2024
     
     - title: Machine Learning Engineer
       institution: ACI Limited, Dhaka, Bangladesh
@@ -93,9 +102,10 @@
   contents:
     - title: Nanophotonics and Plasmonics 
       items: 
-        - Photonic Integrated Circuit (PIC) compatible components and devices
+        - Metasurfaces and Metamaterials
         - Non-linear Optics
         - Quantum photonics
+        - Photonic Integrated Circuits (PICs)
     # - title: Photonic Inverse design
     #   items:
     #     - Application of Machine Learning and Deep Learning for Photonic Inverse Design

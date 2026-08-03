@@ -9,9 +9,7 @@ display_categories: [academic, work]
 horizontal: false
 ---
 
-For now, the projects are not described. Only the cards are shown. Overtime I will gradually, populate the contents of each of the projects. 
-
-*These projects include research works that have not been published (yet). Published works are listed under __Research__*
+These are some of my notable academic and professional projects which are not covered under publications. *These projects also include research works that have not been published. Published works are listed under [__Research__](/research/)*
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -21,7 +19,7 @@ For now, the projects are not described. Only the cards are shown. Overtime I wi
   
   {% if category=='work' -%}
   <br>
-  The following projects are the ones I worked on as a part of my job at ACI Limited. The list is not exhaustive, as I have omitted many of the aspects of individual projects, due to confidentiality. However, I have tried to be as descriptive as possible. Just like the other projects, I will keep updating these over time.  
+  The following projects are the ones I worked on as a part of my job at ACI Limited. The list is not exhaustive, as some aspects have been omitted due to confidentiality.  
   {%- endif -%}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}

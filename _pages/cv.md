@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: cv_20250515.pdf
+cv_pdf: CV_Shadman_Aug2026.pdf
 ---
 Last updated on 2023 May 9. 
