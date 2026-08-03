@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Solution of two dimensional Laplace equation | Shadman  Shahid</title>
+    <title>Inverse Design of Thin Film Stacks via a Residual Generative Optimization Network | Shadman  Shahid</title>
     <meta name="author" content="Shadman  Shahid">
-    <meta name="description" content="A simple MATLAB code to solve 2D Laplace equation with FEM method">
+    <meta name="description" content="A generative deep learning model that inverse-designs multilayer thin film stacks to match a target optical response.">
     <meta name="keywords" content="jekyll-theme, academic-website, portfolio-website, photonics">
 
 
@@ -35,7 +35,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%94%A5&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://shadman-shahid.github.io/projects/a_FEM/">
+    <link rel="canonical" href="https://shadman-shahid.github.io/projects/a_resGlonet/">
 
     <!-- Dark Mode -->
     
@@ -126,26 +126,18 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Solution of two dimensional Laplace equation</h1>
-            <p class="post-description">A simple MATLAB code to solve 2D Laplace equation with FEM method</p>
+            <h1 class="post-title">Inverse Design of Thin Film Stacks via a Residual Generative Optimization Network</h1>
+            <p class="post-description">A generative deep learning model that inverse-designs multilayer thin film stacks to match a target optical response.</p>
           </header>
 
           <article>
-            <div style="text-align: justify;">
-The finite element method (FEM) powers most commercial electromagnetic solvers, and building one is the best way to understand it. This project implements a 2D FEM solver from scratch in MATLAB, solving the Laplace equation over a microstrip transmission line: a metal strip carrying 5 V on a GaAs substrate (dielectric constant 12.9) inside a grounded enclosure. The equation is cast into weak form, and the domain is meshed with first-order triangular elements, over which the potential varies linearly. Element contributions are assembled into a sparse global stiffness matrix, boundary potentials are applied via Dirichlet lifting, and the system is solved directly. The solver outputs the potential and electric field for both a single microstrip and a coupled pair driven at +5 V and -5 V.
-</div>
-<p><br></p>
-<div style="text-align: justify;">
-The solver was validated against the MATLAB PDE Toolbox. On identical meshes, the two agree to within ~1e-13 V, confirming the assembly and boundary treatment are exact. Since the electric field is singular at the strip corners, pointwise comparison is a poor error metric. Instead, stored field energy (equivalently, line capacitance) is used, which converges at the expected rate for corner singularities. The extrapolated energies give a capacitance of 69.5 pF/m, an effective permittivity of 4.95, and a characteristic impedance of 106.9 Ω. The solver was also benchmarked against the closed-form Hammerstad-Jensen model on a standard open microstrip, agreeing to within 1% on all three parameters.
-</div>
-<p><br></p>
-<iframe src="/assets/pdf/fem2D_laplace.pdf" width="100%" height="600px" frameborder="0">
-    Your browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/fem2D_laplace.pdf">Download PDF</a>.
-</iframe>
+            <p style="text-align: justify;">Designing a multilayer dielectric thin film stack to hit a target optical response is normally a slow trial-and-error process, or a computationally expensive sweep with gradient-based optimizers. In this project, I implemented Res-GLONet, a residual generative optimization network, to inverse-design 1D thin film stacks directly from a target reflection or transmission spectrum. The generator, a residual multilayer perceptron network with 16 cascaded residual blocks, takes a random noise vector and outputs the layer thicknesses and a probability distribution over a material library, from which the refractive index of each layer is sampled. This design is fed to a transfer matrix method (TMM) solver, which acts as the discriminator by computing the resulting spectrum and the loss against the target response.</p>
 
-<div style="text-align: justify;">
-<b>*The codes and necessary files are available at <a href="https://github.com/shadman-shahid/2D_FEM_solver" rel="external nofollow noopener" target="_blank">Github</a>.</b>
-</div>
+<p style="text-align: justify;">Since the reference TMM implementation was written in NumPy, I reimplemented and vectorized it in PyTorch using scattering matrices, so the solver could sit inside the network’s computation graph and backpropagate gradients directly, batched across devices, wavelengths and incidence angles. I also found and corrected a sign error in the published loss function that would otherwise cause training to diverge. The model was tested on two designs: a 3-layer anti-reflection coating, which converged to an average reflectivity of about 2.1% (within 1% of the benchmark paper’s results), and a 50-100 layer narrowband transmission filter targeting sharp transmission peaks at 850 nm and 870 nm, drawn from a 7-material library, which converged to about 10% mean squared error. Both designs converged within about 10 minutes on a personal laptop with a modest GPU, with PCA plots of the design space showing the generated samples collapsing from a broad random spread down to a tight cluster near the optimum over the course of training.</p>
+<p><br></p>
+<iframe src="/assets/pdf/EEE_6609_Project_Report.pdf" width="100%" height="600px" frameborder="0">
+    Your browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/EEE_6609_Project_Report.pdf">Download PDF</a>.
+</iframe>
 
           </article>
 
